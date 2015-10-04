@@ -1,0 +1,26 @@
+<html>
+<body>
+<form action="classes.php" method="post">
+<table border="0">
+<tr>
+    <td>ISBN</td>
+    <td align="center"><input type="text" name="isbn" size="30" /></td>
+</tr>
+<tr>
+<td colspan="2" align="center"><input type="submit" value="Submit"/></td>
+</tr>
+<tr>
+    <td>User ID</td>
+		<td align="center"><input type="text" name="userid" size="30" /></td>
+</tr>
+<tr>
+	<td>Password</td>
+	<td align="center"><input type="password" name="passwd" size="30" /><td>
+<tr>
+<td colspan="2" align="center"><input type="submit" value="Submit"/></td>
+</tr>
+				
+</table>
+</form>
+</body>
+</html>
